@@ -1,4 +1,4 @@
-This project extract user info from WhatsApp and TrueCaller if the profile exists in any of the respective platforms.
+This project extracts user info from WhatsApp and TrueCaller if the profile exists in any of the respective platforms.
 
 To initiate, make sure you have python 3.8+ installed on your system.
 
